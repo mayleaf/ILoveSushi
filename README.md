@@ -6,5 +6,5 @@ CAUGenderEducationFastComplete
 
 #### How to Use
 
-Copy code of eduattack.js and paste it to each lecture's developement tool
+Copy code of script.js and paste it to each lecture's developement tool
 and press enter. Then the lecture will have finished.
