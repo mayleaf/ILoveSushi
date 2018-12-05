@@ -1,5 +1,5 @@
-# CAUGenderEducationFastComplete
-CAUGenderEducationFastComplete
+# ILoveSushi
+I love raw food, like sushi
 ### ATTENTION!
  * this git is expedient method for CAUGenderEduation
  * All reponsibility and disadvantages of using this git lie with the user.
