@@ -27,7 +27,7 @@
   			if (response == "Y") {
   				opener.window.document.ffsearch.submit();
   				if (rep == "e") {
-  					alert('You have finished watching this video clip.');
+  					window.close()
   				} else {
   					alert('수강이 완료되었습니다');
   				}
